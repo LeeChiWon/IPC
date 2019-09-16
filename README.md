@@ -1,3 +1,3 @@
 # IPC
 Qt QSharedMemory Test
-Image, Text Shared
+<br>Image, Text Shared</br>
