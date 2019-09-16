@@ -1,0 +1,2 @@
+# IPC
+Qt QSharedMemory
